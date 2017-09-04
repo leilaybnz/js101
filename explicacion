@@ -1,0 +1,3 @@
+Datos: number(enteros, decimales, positivos, negativos y operaciones aritmeticas),
+ string (conjunto de caracteres con comillas simples o dobles),
+ boolean (logica binaria de 0 y 1, true y false)
